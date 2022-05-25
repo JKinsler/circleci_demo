@@ -3,6 +3,7 @@
 
 def print_hello():
     """prints 'hello world'"""
+    undefined_var
     print("hello world")
 
 
